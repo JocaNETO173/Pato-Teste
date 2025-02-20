@@ -1,8 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: #000;
+    color: #f6f6f6;
     font-family: 'Courier New', Courier, monospace;
 }
 
-main {
-    color: white;
+strong {
+    color:#b90000
+}
+
+button {
+    font-size: 24px;
+    background: #b90000;
+    border-radius: 16px;
+    width: 280px;
+    height: 79px;
+    border: none;
 }
