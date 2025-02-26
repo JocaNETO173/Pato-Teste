@@ -10,14 +10,46 @@ body {
 }
 
 strong {
-    color:#b90000
+    color:#ff0000;
 }
 
 button {
     font-size: 24px;
     background: #b90000;
     border-radius: 16px;
+    margin: 30px 30px 0px 0px;
     width: 280px;
     height: 79px;
     border: none;
+}
+
+main {
+    display: flex;
+    padding: 0px 300px 0px 300px;
+}
+
+header, footer {
+    height: 150px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+img{
+    width: 445px;
+    height: 445px;
+    margin-left: 50px;
+}
+
+a{
+    color:#000;
+    font-size: 20px;
+    text-decoration: none;
 }
