@@ -1,5 +1,8 @@
 # Moldura-Teste
 
+<img src="O Pato.jpeg" alt="Um pato branco em um gramado vede" class="teste">
+O Pato
+
 <br>
 <br>
 
